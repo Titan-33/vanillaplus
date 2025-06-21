@@ -1,6 +1,6 @@
 {
   "type": "GenericCrafter",
-  "name": "Pyratergy mixer",
+  "name": "Pyratite Generator",
   "description": "Produce pyratite. Needs much power.",
   "health": 400,
   "size": 2,
