@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
-  "name": "Энергетический Кремневый Генератор",
-  "description": "Генерирует Кремний За Счёт Электричества",
+  "name": "Silicon Generator",
+  "description": "Generates Silicon using Electricity",
   "health": 1000,
   "size": 2,
   "requirements": [
