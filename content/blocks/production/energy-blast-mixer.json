@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
-  "name": "Blastergy mixer",
-  "description": "Makes blast-compound. Needs some energy and pyratite.",
+  "name": "Blast Compound Mixer",
+  "description": "Makes blast compound. Needs some energy and pyratite.",
   "health": 600,
   "size": 2,
   "requirements": [
