@@ -1,6 +1,6 @@
 {
   "type": "GenericCrafter",
-  "name": "Enerphase weaver",
+  "name": "Phase Weaver Generator",
   "description": "Sythesis phase-fabric. Outputs big amount of it.",
   "health": 750,
   "size": 2,
