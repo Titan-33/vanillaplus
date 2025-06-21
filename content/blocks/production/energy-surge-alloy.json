@@ -1,6 +1,6 @@
 {
   "type": "GenericCrafter",
-  "name": "Energetic surge smelter",
+  "name": "Surge Alloy Generator",
   "description": "Fast produce surge-alloy with huge amount of energy.",
   "health": 1000,
   "size": 3,
